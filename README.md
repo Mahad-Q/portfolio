@@ -35,12 +35,16 @@ My work focuses on designing and developing autonomous robotic systems, embedded
 
 [View Project](https://github.com/Mahad-Q/rc-car)
 
-**Autonomous Parking System (IN PROGRESS) **
-- Developing a robotic parking concept involving automated vehicle storage and retrieval using VEX Robotics.
-- Worked on mechanical mechanisms, elevator platforms, and vehicle positioning.
+### 2. Data Analytics & API Integration
 
+**Canadian Banking Data Integration**
+- Built a REST API that pulls 960+ days of USD/CAD exchange rate data from the Bank of Canada’s public API, cleans it, and stores it in SQLite
+- Implemented endpoints for latest rate, date-range queries, and summary statistics (average, min, max, percent change) with input validation and 400/404 error handling
+- Wrote automated tests covering data cleaning, endpoints, and error cases
 
-### 2. Hardware & Electronics
+[View Project](https://github.com/Mahad-Q/cad-fx-api)
+
+### 3. Hardware & Electronics
 
 **PCB Design - UW Midnight Sun Hardware Member**
 - Worked on DC-DC buck converter schematic and PCB design 
@@ -56,16 +60,6 @@ My work focuses on designing and developing autonomous robotic systems, embedded
 
 [View Hardware Projects](#)
 
-
-
-### 4. Data Analytics & API Integration
-
-**Canadian Banking Data Integration**
-- Built a REST API that pulls 960+ days of USD/CAD exchange rate data from the Bank of Canada’s public API, cleans it, and stores it in SQLite
-- Implemented endpoints for latest rate, date-range queries, and summary statistics (average, min, max, percent change) with input validation and 400/404 error handling
-- Wrote automated tests covering data cleaning, endpoints, and error cases
-
-[View Project](https://github.com/Mahad-Q/cad-fx-api)
 
 ---
 
