@@ -11,7 +11,7 @@ My work focuses on designing and developing autonomous robotic systems, embedded
 
 - **Autonomous Robotic Systems:** Robotics, automation, motor control, autonomous navigation, mechanical systems.
 - **Hardware & Electronics:** PCB design, circuit development, microcontrollers, embedded systems, prototyping.
-- **Software Development:** C++, Python, firmware development, API integration, data structures and algorithms.
+- **Software Development:** C++, Python, SQL, firmware development, API integration, data structures and algorithms.
 - **Data Analytics:** Data processing, external API integration, financial data, data analysis and visualization.
 
 ## Technical Skills
