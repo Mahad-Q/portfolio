@@ -64,7 +64,7 @@ My work focuses on designing and developing autonomous robotic systems, embedded
 ## Currently Learning
 
 - Data Structures & Algorithms
-- Advanced Embedded Systems
+- Machine Learning Basis and AI
 - PCB Design & Hardware Development
 - Robotics and Autonomous Control
 - Data Analytics and API Development
