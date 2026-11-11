@@ -58,9 +58,6 @@ My work focuses on designing and developing autonomous robotic systems, embedded
 <img width="1077" height="517" alt="image" src="https://github.com/user-attachments/assets/da8f222f-2978-4567-b8a4-149621158a0a" />
 
 
-[View Hardware Projects](#)
-
-
 ---
 
 
